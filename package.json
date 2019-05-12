@@ -1,0 +1,23 @@
+{
+    "name": "react_and_express",
+    "version": "1.0.0",
+    "description": "Full Stack ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js",
+        "server": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VardanMelik/React-Express-Full-Stack-Development.git"
+    },
+    "author": "Vardan Meliksetyan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VardanMelik/React-Express-Full-Stack-Development/issues"
+    },
+    "homepage": "https://github.com/VardanMelik/React-Express-Full-Stack-Development#readme",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
